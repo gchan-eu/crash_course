@@ -1,0 +1,3 @@
+In Python you can model real world entities into objects through classes.
+In Python you can use string, boolean, integer and float variables.
+In Python you can use class inheritance.
